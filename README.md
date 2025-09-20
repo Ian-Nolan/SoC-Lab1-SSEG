@@ -4,4 +4,4 @@ The screenshots I took that helped me identify where my issues were can be found
 
 The constraint file I used is available here as well.
 
-In the most recent resubmission, I revised the case statement within top.sv to fix which anodes os the seven-segment display were receiving power. I also created a tick input for my_adder.sv and passed in the clock as clk rather than passing in tick as clk. An breif explanation of my debugging revelation can be seen in the youtube video included in the report. Please watch with subtitles on since I was speaking quietly.
+In the most recent resubmission, I revised the case statement within top.sv to fix which anodes os the seven-segment display were receiving power. I also created a tick input for my_adder.sv and passed in the clock as clk rather than passing in tick as clk. An brief explanation of my debugging revelation can be seen in the youtube video included in the report. Please watch with subtitles on since I was speaking quietly.
